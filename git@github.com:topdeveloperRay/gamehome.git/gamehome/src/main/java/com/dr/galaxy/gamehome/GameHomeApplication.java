@@ -12,6 +12,7 @@ public class GameHomeApplication {
 		SpringApplication.run(GameHomeApplication.class, args);
 	}
 
+	
 	/*@Override
 	public void run(String... args) throws Exception {
 
