@@ -43,4 +43,5 @@ public class DataConfiguration {
     public JpaTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
         return new JpaTransactionManager(entityManagerFactory);
     }
+    
 }
